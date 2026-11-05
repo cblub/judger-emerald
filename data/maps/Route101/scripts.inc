@@ -262,7 +262,6 @@ Route101_Text_HelpMe:
 Route101_Text_PleaseHelp:
 	.string "Hello! You over there!\n"
 	.string "Please! Toss me a beer!\p"
-	.string "In my bag!\n"
 	.string "There's a Pokéball too I guess!$"
 
 Route101_Text_DontLeaveMe:
@@ -279,12 +278,12 @@ Route101_Text_YouSavedMe:
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
 	.string "Route 101 is my favorite place. I could\n"
-	.string "walk around here forever!$"
+	.string "spin around here forever!$"
 
 Route101_Text_WildPokemonInTallGrass:
 	.string "I think that Zigzagoon just wanted\n"
 	.string "some pets. Not sure why that guy was\l"
-	.string "so freaked out.$"
+	.string "all freaked out.$"
 
 Route101_Text_RouteSign:
 	.string "Route 101\n"
